@@ -4,12 +4,12 @@ I'm Clark a Full Stack Web Developer and Content Creator on [Instagram](https://
 
 :mailbox: Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/clarkiscontent) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/clark-kiggundu) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/clarkiscontent/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kiggunduclark@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ckiggundu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ckiggundu)](https://twitter.com/clarkiscontent) [![Linkedin Badge](https://img.shields.io/badge/-clark-kiggundu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/clark-kiggundu) [![Mail Badge](https://img.shields.io/badge/-@ckiggundu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/clarkiscontent/) [![Mail Badge](https://img.shields.io/badge/-ckiggundu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kiggunduclark@gmail.com)
 
 <!-- TODO: Add more profiles to the badges -->
 
 - 🔭 I’m currently working at new mobile app project
-- :computer: Most used line of code `flutter run"`
+- :computer: Most used line of code `flutter run`
 - 🤔 I’m looking for help with Outstanding app ideas.
 - 📫 How to reach me: kiggunduclark@gmail.com.
 - 😄 Pronouns: Clark, Kiggundu.
