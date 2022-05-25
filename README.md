@@ -4,7 +4,7 @@ I'm Clark a Full Stack Web Developer and Content Creator on [Instagram](https://
 
 :mailbox: Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ckiggundu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ckiggundu)](https://twitter.com/clarkiscontent) [![Linkedin Badge](https://img.shields.io/badge/-clark-kiggundu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/clark-kiggundu) [![Mail Badge](https://img.shields.io/badge/-@ckiggundu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/clarkiscontent/) [![Mail Badge](https://img.shields.io/badge/-ckiggundu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kiggunduclark@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ckiggundu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ckiggundu)](https://twitter.com/clarkiscontent) [![Linkedin Badge](https://img.shields.io/badge/-clarkkiggundu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/clark-kiggundu) [![Mail Badge](https://img.shields.io/badge/-@ckiggundu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/clarkiscontent/) [![Mail Badge](https://img.shields.io/badge/-ckiggundu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kiggunduclark@gmail.com)
 
 <!-- TODO: Add more profiles to the badges -->
 
@@ -50,8 +50,6 @@ I'm Clark a Full Stack Web Developer and Content Creator on [Instagram](https://
 
 -->
 
-<br />
-<br />
 
 #### Business
 - :paperclip: [My Resume/CV]()
