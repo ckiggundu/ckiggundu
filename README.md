@@ -1,6 +1,6 @@
 ## Hi I'm Clark <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Clark a Full Stack Developer and Content Creator on [Instagram](https://www.instagram.com/clarkiscontent/). I Spend most of time creating outstanding projects or working on new strategies.
+I'm Clark a Developer and Content Creator on [Instagram](https://www.instagram.com/clarkiscontent/). I Spend most of time working on and creating outstanding projects or working on new strategies.
 
 :mailbox: Reach out to me!
 
@@ -8,9 +8,9 @@ I'm Clark a Full Stack Developer and Content Creator on [Instagram](https://www.
 
 <!-- TODO: Add more profiles to the badges -->
 
-- 🔭 I’m currently working at new mobile app project
+- 🔭 I’m currently working on a mobile application concept that was presented for my Final year of University.
 - :computer: Most used line of code `flutter run`
-- 🤔 I’m looking for help with Outstanding app ideas.
+- 🤔 I’m interested in security oriented application ideas.
 - 📫 How to reach me: kiggunduclark@gmail.com.
 - 😄 Pronouns: Clark, Kiggundu.
 - ⚡ Fun fact: I enjoy working on 3D models.
